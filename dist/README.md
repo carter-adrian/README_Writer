@@ -1,5 +1,5 @@
-# t  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+# DoodleStorm  
+  
  ## Table of Contents:  
 [1. Description](#Description)  
 [2. Installation](#Installation)  
@@ -9,21 +9,20 @@
 [6. Tests](#Tests)  
 [7. Questions](#Questions)  
 ## Description:
-t
+It Doodles... a lot.
 ## Installation:
-t
+Turn it on
 ## App Usage:
-t
+To Doodle
 ## License Details: 
- The MIT License is a free software license that was created at the Massachusetts Institute of Technology (MIT). It is a permissive license, meaning that it allows programmers to put the code in proprietary software on the condition that the license is given with that software, and GPL-compatible, meaning that the GPL permits programmers to combine and redistribute it with software that uses the MIT License.  
-    
+ This project is under no license.   
 ## List of Contributors:
-t
+NA
 ## Tests:
-t
+NA
 ## Questions:
  Here is a link to my github:  
-https://github.com/t  
+https://github.com/The Doodler  
  Email me at:  
-t  
+thedoodler@gmail.com  
 for additional questions

@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/carter-adrian/README_Writer#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^6.5.2"
   }
 }
